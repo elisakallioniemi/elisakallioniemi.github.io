@@ -3,18 +3,6 @@
   
     <url>
     
-      <loc>https://www.elisakallioniemi.com/talk/example/</loc>
-      <lastmod>2030-06-01T13:00:00-05:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://www.elisakallioniemi.com/post/jupyter/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
       <loc>https://www.elisakallioniemi.com/publication/pmid-30720554/</loc>
       <lastmod>2019-02-01T00:00:00-06:00</lastmod>
     </url>
@@ -35,18 +23,6 @@
     
       <loc>https://www.elisakallioniemi.com/publication/pmid-29971634/</loc>
       <lastmod>2018-11-01T00:00:00-05:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://www.elisakallioniemi.com/tutorial/example/</loc>
-      <lastmod>2018-09-09T00:00:00-05:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://www.elisakallioniemi.com/tutorial/</loc>
-      <lastmod>2018-09-09T00:00:00-05:00</lastmod>
     </url>
   
     <url>
@@ -123,24 +99,6 @@
   
     <url>
     
-      <loc>https://www.elisakallioniemi.com/project/external-project/</loc>
-      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://www.elisakallioniemi.com/project/internal-project/</loc>
-      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://www.elisakallioniemi.com/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00-06:00</lastmod>
-    </url>
-  
-    <url>
-    
       <loc>https://www.elisakallioniemi.com/publication/pmid-26335800/</loc>
       <lastmod>2015-12-01T00:00:00-06:00</lastmod>
     </url>
@@ -207,13 +165,6 @@
   
     <url>
     
-      <loc>https://www.elisakallioniemi.com/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
       <loc>https://www.elisakallioniemi.com/author/</loc>
       <priority>0</priority>
     </url>
@@ -261,20 +212,6 @@
   
     <url>
     
-      <loc>https://www.elisakallioniemi.com/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://www.elisakallioniemi.com/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
       <loc>https://www.elisakallioniemi.com/authors/e.-a.-haapala/</loc>
       <lastmod>2019-01-01T00:00:00-06:00</lastmod>
       <priority>0</priority>
@@ -311,7 +248,7 @@
     <url>
     
       <loc>https://www.elisakallioniemi.com/</loc>
-      <lastmod>2030-06-01T13:00:00-05:00</lastmod>
+      <lastmod>2019-02-01T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -506,19 +443,6 @@
   
     <url>
     
-      <loc>https://www.elisakallioniemi.com/post/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://www.elisakallioniemi.com/project/</loc>
-      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
       <loc>https://www.elisakallioniemi.com/publication_types/</loc>
       <lastmod>2019-02-01T00:00:00-06:00</lastmod>
       <priority>0</priority>
@@ -560,12 +484,6 @@
   
     <url>
     
-      <loc>https://www.elisakallioniemi.com/talk/</loc>
-      <lastmod>2030-06-01T13:00:00-05:00</lastmod>
-    </url>
-  
-    <url>
-    
       <loc>https://www.elisakallioniemi.com/authors/s.-m.-lehto/</loc>
       <lastmod>2019-02-01T00:00:00-06:00</lastmod>
       <priority>0</priority>
@@ -583,17 +501,6 @@
       <loc>https://www.elisakallioniemi.com/authors/s.-vaalto/</loc>
       <lastmod>2016-08-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://www.elisakallioniemi.com/slides/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://www.elisakallioniemi.com/slides/example-slides/</loc>
     </url>
   
     <url>
@@ -620,7 +527,6 @@
     <url>
     
       <loc>https://www.elisakallioniemi.com/tags/</loc>
-      <lastmod>2018-01-13T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -655,7 +561,6 @@
     <url>
     
       <loc>https://www.elisakallioniemi.com/authors/admin/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
