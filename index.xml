@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elisa Kallioniemi on Elisa Kallioniemi</title>
@@ -6,141 +5,45 @@
     <description>Recent content in Elisa Kallioniemi on Elisa Kallioniemi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Functional and structural asymmetry in primary motor cortex in Asperger syndrome: a navigated TMS and imaging study</title>
-      <link>https://www.elisakallioniemi.com/publication/pmid-30949863/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 -0500</pubDate>
+      <title>Publications</title>
+      <link>https://www.elisakallioniemi.com/publication/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.elisakallioniemi.com/publication/pmid-30949863/</guid>
+      <guid>https://www.elisakallioniemi.com/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Repeated Transcranial Magnetic Stimulation-Induced Motor Evoked Potentials Correlate With the Subject-Specific Serum Metabolic Profile of Creatine</title>
-      <link>https://www.elisakallioniemi.com/publication/pmid-30720554/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 -0600</pubDate>
+      <title></title>
+      <link>https://www.elisakallioniemi.com/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.elisakallioniemi.com/publication/pmid-30720554/</guid>
-      <description></description>
+      <guid>https://www.elisakallioniemi.com/privacy/</guid>
+      <description>&lt;p&gt;#title = &amp;ldquo;Privacy Policy&amp;rdquo;&lt;/p&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+&lt;p&gt;#date = 2018-06-28T00:00:00
+#draft = true
+#share = false&lt;/p&gt;
+&lt;h1 id=&#34;heading-1&#34;&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;header&#34;&gt;[header]&lt;/h1&gt;
+&lt;h1 id=&#34;image--&#34;&gt;image = &amp;quot;&amp;rdquo;&lt;/h1&gt;
+&lt;h1 id=&#34;caption--&#34;&gt;caption = &amp;quot;&amp;rdquo;&lt;/h1&gt;
+&lt;p&gt;#+++&lt;/p&gt;
+&lt;h1 id=&#34;heading-2&#34;&gt;&lt;/h1&gt;
+&lt;p&gt;#&amp;hellip;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Cortical Inhibition of Face and Jaw Muscle Activity and Discomfort Induced by Repetitive and Paired-Pulse TMS During an Overt Object Naming Task</title>
-      <link>https://www.elisakallioniemi.com/publication/pmid-30673935/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0600</pubDate>
+      <title>Authors</title>
+      <link>https://www.elisakallioniemi.com/author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.elisakallioniemi.com/publication/pmid-30673935/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Critical Review and Synthesis of Clinical and Neurocognitive Effects of Noninvasive Neuromodulation Antidepressant Therapies</title>
-      <link>https://www.elisakallioniemi.com/publication/mcclintock-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.elisakallioniemi.com/publication/mcclintock-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maturation changes the excitability and effective connectivity of the frontal lobe: A developmental TMS-EEG study</title>
-      <link>https://www.elisakallioniemi.com/publication/pmid-30648321/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.elisakallioniemi.com/publication/pmid-30648321/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficient Mapping of the Motor Cortex with Navigated Biphasic Paired-Pulse Transcranial Magnetic Stimulation</title>
-      <link>https://www.elisakallioniemi.com/publication/pmid-29971634/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.elisakallioniemi.com/publication/pmid-29971634/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modulation of motor cortical excitability with auditory stimulation</title>
-      <link>https://www.elisakallioniemi.com/publication/pmid-29742032/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.elisakallioniemi.com/publication/pmid-29742032/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Abnormal motor cortical adaptation to external stimulus in Unverricht-Lundborg disease (progressive myoclonus type 1, EPM1)</title>
-      <link>https://www.elisakallioniemi.com/publication/pmid-29742025/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.elisakallioniemi.com/publication/pmid-29742025/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Association of the N100 TMS-evoked potential with attentional processes: A motor cortex TMS-EEG study</title>
-      <link>https://www.elisakallioniemi.com/publication/pmid-29407789/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.elisakallioniemi.com/publication/pmid-29407789/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Oscillatory TMS-EEG-Responses as a Measure of the Cortical Excitability Threshold</title>
-      <link>https://www.elisakallioniemi.com/publication/pmid-29432109/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.elisakallioniemi.com/publication/pmid-29432109/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Heavy alcohol use in adolescence is associated with altered cortical activity: a combined TMS-EEG study</title>
-      <link>https://www.elisakallioniemi.com/publication/pmid-28008690/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.elisakallioniemi.com/publication/pmid-28008690/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Transcranial magnetic stimulation modulation of corticospinal excitability by targeting cortical I-waves with biphasic paired-pulses</title>
-      <link>https://www.elisakallioniemi.com/publication/pmid-29089235/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.elisakallioniemi.com/publication/pmid-29089235/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Minimum-Norm Estimation of Motor Representations in Navigated TMS Mappings</title>
-      <link>https://www.elisakallioniemi.com/publication/pmid-28721533/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.elisakallioniemi.com/publication/pmid-28721533/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development of cortical motor circuits between childhood and adulthood: A navigated TMS-HdEEG study</title>
-      <link>https://www.elisakallioniemi.com/publication/pmid-28218489/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.elisakallioniemi.com/publication/pmid-28218489/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Effect of inter-train interval on the induction of repetition suppression of motor-evoked potentials using transcranial magnetic stimulation</title>
-      <link>https://www.elisakallioniemi.com/publication/pmid-28723977/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.elisakallioniemi.com/publication/pmid-28723977/</guid>
+      <guid>https://www.elisakallioniemi.com/author/</guid>
       <description></description>
     </item>
     
