@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>F. Awiszus on Elisa Kallioniemi</title>
+    <title>F. Awiszus | Elisa Kallioniemi</title>
     <link>https://www.elisakallioniemi.com/authors/f.-awiszus/</link>
-    <description>Recent content in F. Awiszus on Elisa Kallioniemi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 01 Nov 2014 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://www.elisakallioniemi.com/authors/f.-awiszus/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.elisakallioniemi.com/authors/f.-awiszus/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. Awiszus</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2014 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>https://www.elisakallioniemi.com/img/icon-192.png</url>
+      <title>F. Awiszus</title>
+      <link>https://www.elisakallioniemi.com/authors/f.-awiszus/</link>
+    </image>
     
     <item>
       <title>On the estimation of silent period thresholds in transcranial magnetic stimulation</title>
       <link>https://www.elisakallioniemi.com/publication/pmid-24725846/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 -0500</pubDate>
-      
       <guid>https://www.elisakallioniemi.com/publication/pmid-24725846/</guid>
       <description></description>
     </item>

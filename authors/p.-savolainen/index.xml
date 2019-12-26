@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>P. Savolainen on Elisa Kallioniemi</title>
+    <title>P. Savolainen | Elisa Kallioniemi</title>
     <link>https://www.elisakallioniemi.com/authors/p.-savolainen/</link>
-    <description>Recent content in P. Savolainen on Elisa Kallioniemi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0600</lastBuildDate>
-    
-	<atom:link href="https://www.elisakallioniemi.com/authors/p.-savolainen/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.elisakallioniemi.com/authors/p.-savolainen/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. Savolainen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0600</lastBuildDate>
+    <image>
+      <url>https://www.elisakallioniemi.com/img/icon-192.png</url>
+      <title>P. Savolainen</title>
+      <link>https://www.elisakallioniemi.com/authors/p.-savolainen/</link>
+    </image>
     
     <item>
       <title>Transcranial magnetic stimulation modulation of corticospinal excitability by targeting cortical I-waves with biphasic paired-pulses</title>
       <link>https://www.elisakallioniemi.com/publication/pmid-29089235/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0600</pubDate>
-      
       <guid>https://www.elisakallioniemi.com/publication/pmid-29089235/</guid>
       <description></description>
     </item>

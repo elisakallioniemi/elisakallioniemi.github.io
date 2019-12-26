@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>N. Lintu on Elisa Kallioniemi</title>
+    <title>N. Lintu | Elisa Kallioniemi</title>
     <link>https://www.elisakallioniemi.com/authors/n.-lintu/</link>
-    <description>Recent content in N. Lintu on Elisa Kallioniemi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://www.elisakallioniemi.com/authors/n.-lintu/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.elisakallioniemi.com/authors/n.-lintu/index.xml" rel="self" type="application/rss+xml" />
+    <description>N. Lintu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2019 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>https://www.elisakallioniemi.com/img/icon-192.png</url>
+      <title>N. Lintu</title>
+      <link>https://www.elisakallioniemi.com/authors/n.-lintu/</link>
+    </image>
     
     <item>
       <title>Functional and structural asymmetry in primary motor cortex in Asperger syndrome: a navigated TMS and imaging study</title>
       <link>https://www.elisakallioniemi.com/publication/pmid-30949863/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 -0500</pubDate>
-      
       <guid>https://www.elisakallioniemi.com/publication/pmid-30949863/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Maturation changes the excitability and effective connectivity of the frontal lobe: A developmental TMS-EEG study</title>
       <link>https://www.elisakallioniemi.com/publication/pmid-30648321/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0600</pubDate>
-      
       <guid>https://www.elisakallioniemi.com/publication/pmid-30648321/</guid>
       <description></description>
     </item>
@@ -33,7 +32,6 @@
       <title>Development of cortical motor circuits between childhood and adulthood: A navigated TMS-HdEEG study</title>
       <link>https://www.elisakallioniemi.com/publication/pmid-28218489/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 -0500</pubDate>
-      
       <guid>https://www.elisakallioniemi.com/publication/pmid-28218489/</guid>
       <description></description>
     </item>

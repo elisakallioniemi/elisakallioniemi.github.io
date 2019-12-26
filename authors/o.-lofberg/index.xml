@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>O. Löfberg | Elisa Kallioniemi</title>
+    <link>https://www.elisakallioniemi.com/authors/o.-lofberg/</link>
+      <atom:link href="https://www.elisakallioniemi.com/authors/o.-lofberg/index.xml" rel="self" type="application/rss+xml" />
+    <description>O. Löfberg</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>https://www.elisakallioniemi.com/img/icon-192.png</url>
+      <title>O. Löfberg</title>
+      <link>https://www.elisakallioniemi.com/authors/o.-lofberg/</link>
+    </image>
+    
+    <item>
+      <title>Modulation of motor cortical excitability with auditory stimulation</title>
+      <link>https://www.elisakallioniemi.com/publication/pmid-29742032/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0500</pubDate>
+      <guid>https://www.elisakallioniemi.com/publication/pmid-29742032/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abnormal motor cortical adaptation to external stimulus in Unverricht-Lundborg disease (progressive myoclonus type 1, EPM1)</title>
+      <link>https://www.elisakallioniemi.com/publication/pmid-29742025/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 -0500</pubDate>
+      <guid>https://www.elisakallioniemi.com/publication/pmid-29742025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

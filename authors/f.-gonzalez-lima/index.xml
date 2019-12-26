@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>F. Gonzalez-Lima on Elisa Kallioniemi</title>
+    <title>F. Gonzalez-Lima | Elisa Kallioniemi</title>
     <link>https://www.elisakallioniemi.com/authors/f.-gonzalez-lima/</link>
-    <description>Recent content in F. Gonzalez-Lima on Elisa Kallioniemi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.elisakallioniemi.com/authors/f.-gonzalez-lima/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.elisakallioniemi.com/authors/f.-gonzalez-lima/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. Gonzalez-Lima</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.elisakallioniemi.com/img/icon-192.png</url>
+      <title>F. Gonzalez-Lima</title>
+      <link>https://www.elisakallioniemi.com/authors/f.-gonzalez-lima/</link>
+    </image>
     
     <item>
       <title>Transcranial photobiomodulation with 1064-nm laser modulates brain electroencephalogram rhythms</title>
       <link>https://www.elisakallioniemi.com/publication/pmid-31259198/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.elisakallioniemi.com/publication/pmid-31259198/</guid>
       <description></description>
     </item>

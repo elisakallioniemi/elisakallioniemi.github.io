@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>S. H. Lisanby on Elisa Kallioniemi</title>
+    <title>S. H. Lisanby | Elisa Kallioniemi</title>
     <link>https://www.elisakallioniemi.com/authors/s.-h.-lisanby/</link>
-    <description>Recent content in S. H. Lisanby on Elisa Kallioniemi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.elisakallioniemi.com/authors/s.-h.-lisanby/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.elisakallioniemi.com/authors/s.-h.-lisanby/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. H. Lisanby</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.elisakallioniemi.com/img/icon-192.png</url>
+      <title>S. H. Lisanby</title>
+      <link>https://www.elisakallioniemi.com/authors/s.-h.-lisanby/</link>
+    </image>
     
     <item>
       <title>Magnetic seizure therapy: Towards personalized seizure therapy for major depression</title>
       <link>https://www.elisakallioniemi.com/publication/kallioniemi-201937/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.elisakallioniemi.com/publication/kallioniemi-201937/</guid>
       <description></description>
     </item>

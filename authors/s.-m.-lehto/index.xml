@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>S. M. Lehto on Elisa Kallioniemi</title>
+    <title>S. M. Lehto | Elisa Kallioniemi</title>
     <link>https://www.elisakallioniemi.com/authors/s.-m.-lehto/</link>
-    <description>Recent content in S. M. Lehto on Elisa Kallioniemi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 -0600</lastBuildDate>
-    
-	<atom:link href="https://www.elisakallioniemi.com/authors/s.-m.-lehto/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.elisakallioniemi.com/authors/s.-m.-lehto/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. M. Lehto</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 -0600</lastBuildDate>
+    <image>
+      <url>https://www.elisakallioniemi.com/img/icon-192.png</url>
+      <title>S. M. Lehto</title>
+      <link>https://www.elisakallioniemi.com/authors/s.-m.-lehto/</link>
+    </image>
     
     <item>
       <title>Repeated Transcranial Magnetic Stimulation-Induced Motor Evoked Potentials Correlate With the Subject-Specific Serum Metabolic Profile of Creatine</title>
       <link>https://www.elisakallioniemi.com/publication/pmid-30720554/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 -0600</pubDate>
-      
       <guid>https://www.elisakallioniemi.com/publication/pmid-30720554/</guid>
       <description></description>
     </item>

@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>S. Vaalto on Elisa Kallioniemi</title>
+    <title>S. Vaalto | Elisa Kallioniemi</title>
     <link>https://www.elisakallioniemi.com/authors/s.-vaalto/</link>
-    <description>Recent content in S. Vaalto on Elisa Kallioniemi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 01 Aug 2016 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://www.elisakallioniemi.com/authors/s.-vaalto/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.elisakallioniemi.com/authors/s.-vaalto/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Vaalto</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2016 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>https://www.elisakallioniemi.com/img/icon-192.png</url>
+      <title>S. Vaalto</title>
+      <link>https://www.elisakallioniemi.com/authors/s.-vaalto/</link>
+    </image>
     
     <item>
       <title>Functional and structural cortical characteristics after restricted focal motor cortical infarction evaluated at chronic stage - Indications from a preliminary study</title>
       <link>https://www.elisakallioniemi.com/publication/pmid-27417053/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 -0500</pubDate>
-      
       <guid>https://www.elisakallioniemi.com/publication/pmid-27417053/</guid>
       <description></description>
     </item>

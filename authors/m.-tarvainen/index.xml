@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>M. Tarvainen on Elisa Kallioniemi</title>
+    <title>M. Tarvainen | Elisa Kallioniemi</title>
     <link>https://www.elisakallioniemi.com/authors/m.-tarvainen/</link>
-    <description>Recent content in M. Tarvainen on Elisa Kallioniemi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 -0600</lastBuildDate>
-    
-	<atom:link href="https://www.elisakallioniemi.com/authors/m.-tarvainen/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.elisakallioniemi.com/authors/m.-tarvainen/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Tarvainen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2018 00:00:00 -0600</lastBuildDate>
+    <image>
+      <url>https://www.elisakallioniemi.com/img/icon-192.png</url>
+      <title>M. Tarvainen</title>
+      <link>https://www.elisakallioniemi.com/authors/m.-tarvainen/</link>
+    </image>
     
     <item>
       <title>Oscillatory TMS-EEG-Responses as a Measure of the Cortical Excitability Threshold</title>
       <link>https://www.elisakallioniemi.com/publication/pmid-29432109/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 -0600</pubDate>
-      
       <guid>https://www.elisakallioniemi.com/publication/pmid-29432109/</guid>
       <description></description>
     </item>

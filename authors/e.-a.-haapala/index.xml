@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>E. A. Haapala on Elisa Kallioniemi</title>
+    <title>E. A. Haapala | Elisa Kallioniemi</title>
     <link>https://www.elisakallioniemi.com/authors/e.-a.-haapala/</link>
-    <description>Recent content in E. A. Haapala on Elisa Kallioniemi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0600</lastBuildDate>
-    
-	<atom:link href="https://www.elisakallioniemi.com/authors/e.-a.-haapala/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.elisakallioniemi.com/authors/e.-a.-haapala/index.xml" rel="self" type="application/rss+xml" />
+    <description>E. A. Haapala</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0600</lastBuildDate>
+    <image>
+      <url>https://www.elisakallioniemi.com/img/icon-192.png</url>
+      <title>E. A. Haapala</title>
+      <link>https://www.elisakallioniemi.com/authors/e.-a.-haapala/</link>
+    </image>
     
     <item>
       <title>Maturation changes the excitability and effective connectivity of the frontal lobe: A developmental TMS-EEG study</title>
       <link>https://www.elisakallioniemi.com/publication/pmid-30648321/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0600</pubDate>
-      
       <guid>https://www.elisakallioniemi.com/publication/pmid-30648321/</guid>
       <description></description>
     </item>

@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R. J. Ilmoniemi on Elisa Kallioniemi</title>
+    <title>R. J. Ilmoniemi | Elisa Kallioniemi</title>
     <link>https://www.elisakallioniemi.com/authors/r.-j.-ilmoniemi/</link>
-    <description>Recent content in R. J. Ilmoniemi on Elisa Kallioniemi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 01 Nov 2017 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://www.elisakallioniemi.com/authors/r.-j.-ilmoniemi/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.elisakallioniemi.com/authors/r.-j.-ilmoniemi/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. J. Ilmoniemi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>https://www.elisakallioniemi.com/img/icon-192.png</url>
+      <title>R. J. Ilmoniemi</title>
+      <link>https://www.elisakallioniemi.com/authors/r.-j.-ilmoniemi/</link>
+    </image>
     
     <item>
       <title>Minimum-Norm Estimation of Motor Representations in Navigated TMS Mappings</title>
       <link>https://www.elisakallioniemi.com/publication/pmid-28721533/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0500</pubDate>
-      
       <guid>https://www.elisakallioniemi.com/publication/pmid-28721533/</guid>
       <description></description>
     </item>

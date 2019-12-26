@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>admin on Elisa Kallioniemi</title>
+    <title>Elisa Kallioniemi</title>
     <link>https://www.elisakallioniemi.com/authors/admin/</link>
-    <description>Recent content in admin on Elisa Kallioniemi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.elisakallioniemi.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>https://www.elisakallioniemi.com/author/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.elisakallioniemi.com/author/admin/</guid>
-      <description>Elisa Kallioniemi is a neuromodulation and a neurophysiology scientist. She is interested in understanding the neural mechanisms and effects of non-invasive neuromodulation. In addition, she uses neuromodulation combined with neurophysiological methods (concurrent TMS-EEG, concurrent TMS-EMG, resting EEG) to understand brain function associated with frontal brain regions and primary motor cortex in both healthy humans and in patients with psychiatric and neurological disorders (e.g. depression, schizophrenia, pain, stroke, epilepsy). She also develops methods to improve neuromodulation practices.</description>
-    </item>
+      <atom:link href="https://www.elisakallioniemi.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elisa Kallioniemi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://www.elisakallioniemi.com/img/icon-192.png</url>
+      <title>Elisa Kallioniemi</title>
+      <link>https://www.elisakallioniemi.com/authors/admin/</link>
+    </image>
     
   </channel>
 </rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Pääkkönen | Elisa Kallioniemi</title>
+    <link>https://www.elisakallioniemi.com/authors/a.-paakkonen/</link>
+      <atom:link href="https://www.elisakallioniemi.com/authors/a.-paakkonen/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Pääkkönen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>https://www.elisakallioniemi.com/img/icon-192.png</url>
+      <title>A. Pääkkönen</title>
+      <link>https://www.elisakallioniemi.com/authors/a.-paakkonen/</link>
+    </image>
+    
+    <item>
+      <title>Modulation of motor cortical excitability with auditory stimulation</title>
+      <link>https://www.elisakallioniemi.com/publication/pmid-29742032/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0500</pubDate>
+      <guid>https://www.elisakallioniemi.com/publication/pmid-29742032/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Repetition suppression in transcranial magnetic stimulation-induced motor-evoked potentials is modulated by cortical inhibition</title>
+      <link>https://www.elisakallioniemi.com/publication/pmid-26427962/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 -0600</pubDate>
+      <guid>https://www.elisakallioniemi.com/publication/pmid-26427962/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

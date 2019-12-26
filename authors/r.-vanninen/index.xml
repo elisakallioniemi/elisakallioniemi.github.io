@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R. Vanninen on Elisa Kallioniemi</title>
+    <title>R. Vanninen | Elisa Kallioniemi</title>
     <link>https://www.elisakallioniemi.com/authors/r.-vanninen/</link>
-    <description>Recent content in R. Vanninen on Elisa Kallioniemi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://www.elisakallioniemi.com/authors/r.-vanninen/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.elisakallioniemi.com/authors/r.-vanninen/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Vanninen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2019 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>https://www.elisakallioniemi.com/img/icon-192.png</url>
+      <title>R. Vanninen</title>
+      <link>https://www.elisakallioniemi.com/authors/r.-vanninen/</link>
+    </image>
     
     <item>
       <title>Functional and structural asymmetry in primary motor cortex in Asperger syndrome: a navigated TMS and imaging study</title>
       <link>https://www.elisakallioniemi.com/publication/pmid-30949863/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 -0500</pubDate>
-      
       <guid>https://www.elisakallioniemi.com/publication/pmid-30949863/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Localization of cortical primary motor area of the hand using navigated transcranial magnetic stimulation, BOLD and arterial spin labeling fMRI</title>
       <link>https://www.elisakallioniemi.com/publication/pmid-27615740/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 -0500</pubDate>
-      
       <guid>https://www.elisakallioniemi.com/publication/pmid-27615740/</guid>
       <description></description>
     </item>
@@ -33,7 +32,6 @@
       <title>Functional and structural cortical characteristics after restricted focal motor cortical infarction evaluated at chronic stage - Indications from a preliminary study</title>
       <link>https://www.elisakallioniemi.com/publication/pmid-27417053/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 -0500</pubDate>
-      
       <guid>https://www.elisakallioniemi.com/publication/pmid-27417053/</guid>
       <description></description>
     </item>
