@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>H. Liu | Elisa Kallioniemi</title>
-    <link>https://www.elisakallioniemi.com/authors/h.-liu/</link>
-      <atom:link href="https://www.elisakallioniemi.com/authors/h.-liu/index.xml" rel="self" type="application/rss+xml" />
-    <description>H. Liu</description>
+    <title>A. Wu | Elisa Kallioniemi</title>
+    <link>https://www.elisakallioniemi.com/authors/a.-wu/</link>
+      <atom:link href="https://www.elisakallioniemi.com/authors/a.-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Wu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.elisakallioniemi.com/img/icon-192.png</url>
-      <title>H. Liu</title>
-      <link>https://www.elisakallioniemi.com/authors/h.-liu/</link>
+      <title>A. Wu</title>
+      <link>https://www.elisakallioniemi.com/authors/a.-wu/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://www.elisakallioniemi.com/publication/pmid-32173886/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://www.elisakallioniemi.com/publication/pmid-32173886/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Transcranial photobiomodulation with 1064-nm laser modulates brain electroencephalogram rhythms</title>
-      <link>https://www.elisakallioniemi.com/publication/pmid-31259198/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.elisakallioniemi.com/publication/pmid-31259198/</guid>
       <description></description>
     </item>
     
