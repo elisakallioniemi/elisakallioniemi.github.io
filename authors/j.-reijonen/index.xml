@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R. J. Ilmoniemi | Elisa Kallioniemi</title>
-    <link>https://www.elisakallioniemi.com/authors/r.-j.-ilmoniemi/</link>
-      <atom:link href="https://www.elisakallioniemi.com/authors/r.-j.-ilmoniemi/index.xml" rel="self" type="application/rss+xml" />
-    <description>R. J. Ilmoniemi</description>
+    <title>J. Reijonen | Elisa Kallioniemi</title>
+    <link>https://www.elisakallioniemi.com/authors/j.-reijonen/</link>
+      <atom:link href="https://www.elisakallioniemi.com/authors/j.-reijonen/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Reijonen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.elisakallioniemi.com/img/icon-192.png</url>
-      <title>R. J. Ilmoniemi</title>
-      <link>https://www.elisakallioniemi.com/authors/r.-j.-ilmoniemi/</link>
+      <title>J. Reijonen</title>
+      <link>https://www.elisakallioniemi.com/authors/j.-reijonen/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://www.elisakallioniemi.com/publication/pmid-32791087/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://www.elisakallioniemi.com/publication/pmid-32791087/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Minimum-Norm Estimation of Motor Representations in Navigated TMS Mappings</title>
-      <link>https://www.elisakallioniemi.com/publication/pmid-28721533/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0500</pubDate>
-      <guid>https://www.elisakallioniemi.com/publication/pmid-28721533/</guid>
       <description></description>
     </item>
     

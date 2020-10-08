@@ -5,12 +5,20 @@
     <link>https://www.elisakallioniemi.com/publication/</link>
       <atom:link href="https://www.elisakallioniemi.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.elisakallioniemi.com/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://www.elisakallioniemi.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Spatial extent of cortical motor hotspot in navigated transcranial magnetic stimulation</title>
+      <link>https://www.elisakallioniemi.com/publication/pmid-32791087/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.elisakallioniemi.com/publication/pmid-32791087/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Transcranial Photobiomodulation (tPBM) With 1,064-nm Laser to Improve Cerebral Metabolism of the Human Brain In Vivo</title>
