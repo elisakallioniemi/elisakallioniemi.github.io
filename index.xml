@@ -5,12 +5,20 @@
     <link>https://www.elisakallioniemi.com/</link>
       <atom:link href="https://www.elisakallioniemi.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Elisa Kallioniemi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.elisakallioniemi.com/img/icon-192.png</url>
       <title>Elisa Kallioniemi</title>
       <link>https://www.elisakallioniemi.com/</link>
     </image>
+    
+    <item>
+      <title>Heavy drinking from adolescence to young adulthood is associated with an altered cerebellum</title>
+      <link>https://www.elisakallioniemi.com/publication/pmid-33556459/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.elisakallioniemi.com/publication/pmid-33556459/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Spatial extent of cortical motor hotspot in navigated transcranial magnetic stimulation</title>
