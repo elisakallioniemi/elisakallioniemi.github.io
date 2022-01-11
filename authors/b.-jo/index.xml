@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. Jo | Elisa Kallioniemi</title>
+    <link>https://www.elisakallioniemi.com/authors/b.-jo/</link>
+      <atom:link href="https://www.elisakallioniemi.com/authors/b.-jo/index.xml" rel="self" type="application/rss+xml" />
+    <description>B. Jo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.elisakallioniemi.com/img/icon-192.png</url>
+      <title>B. Jo</title>
+      <link>https://www.elisakallioniemi.com/authors/b.-jo/</link>
+    </image>
+    
+    <item>
+      <title>Modulation of a Stable Neurobehavioral Trait Using Repetitive Transcranial Magnetic Stimulation: A Preregistered Randomized Controlled Trial</title>
+      <link>https://www.elisakallioniemi.com/publication/faerman-2021070821260222/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.elisakallioniemi.com/publication/faerman-2021070821260222/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
